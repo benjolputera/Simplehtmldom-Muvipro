@@ -1,0 +1,23 @@
+{
+    "name": "Drakor-ID BOT",
+    "description": "Drakor-ID BOT some pre defined text after page loads for scrap content",
+    "version": "1.0.1",
+    "permissions": [
+        "tabs",
+        "http://91.230.121.37/*" // drakor-id urll => change
+    ],
+    "browser_action": {
+        "default_icon": "icon.png"
+    },
+    "content_scripts": [
+        {
+        "matches": [
+            "http://91.230.121.37/*", // drakor-id urll => change
+            "https://91.230.121.37/*" // drakor-id urll secure => change
+            ],
+        "js": ["content.js"],
+        "run_at": "document_end"    // Pay attention to this line
+        }
+    ], 
+    "manifest_version": 2
+}
