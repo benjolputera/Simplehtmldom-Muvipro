@@ -11,7 +11,7 @@
           console.clear();
 
           var urlDrakorID = "http://91.230.121.37/"; // main url darkor id => change
-          var urlAPI = "https://terbitxxi.fun/botdrakorid.php"; // main url api => change
+          var urlAPI = "http://localhost/folderphpsourcecode/api.php"; // main url api => change
 
           function notifMessage(msg) {
                $('#s').val(msg); // change if you use any more
