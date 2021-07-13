@@ -26,5 +26,5 @@ Api :
 * Kunjungi => http://localhost/folderphpsourcecode/api.php?main=api&page=1
 
 Maaf untuk penulisan kode yang berantakan.
-Jika ingin plugin simple post dari data api silakan hubungi ane. 
-Email : benjolputera{@}gmail.com
+Jika ingin plugin simple post dari data api silakan hubungi ane.
+Cari website gabut21 di google ya wkwkwkwkwk.
